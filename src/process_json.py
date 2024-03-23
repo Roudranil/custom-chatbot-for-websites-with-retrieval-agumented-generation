@@ -15,7 +15,7 @@ for recipe_category in os.listdir(DATA_DIR):
     for recipe_name in recipes.keys():
         data[recipe_name] = {}
         data[recipe_name]["url"] = recipes[recipe_name]["url"]
-        data[recipe_name]["text"] = "\n".join(
+        data[recipe_name]["text"] = f"{recipe_name}\n" + "\n".join(
             [
                 (f"{k}\n" + recipes[recipe_name][k])
                 for k in recipes[recipe_name].keys()
