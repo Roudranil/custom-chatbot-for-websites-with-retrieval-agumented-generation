@@ -6,5 +6,5 @@
 - Build a RAG pipeline for some open source LLM
 
 Links:
-[Chess wiki books page](https://en.wikibooks.org/wiki/Chess)
-[Chess strategy wiki books](https://en.wikibooks.org/wiki/Chess_Strategy)
+
+[recipes with metric units](https://en.wikibooks.org/wiki/Category:Recipes_with_metric_units)
