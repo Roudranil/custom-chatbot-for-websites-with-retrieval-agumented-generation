@@ -1,0 +1,899 @@
+[category_logger] INFO: Starting category logger.
+[recipe_logger] INFO: Starting recipe logger.
+[category_logger] INFO: Category F saved.
+[category_logger] INFO: Category G saved.
+[category_logger] INFO: Category A saved.
+[category_logger] INFO: Category D saved.
+[category_logger] INFO: Category E saved.
+[category_logger] INFO: Category H saved.
+[category_logger] INFO: Category I saved.
+[category_logger] INFO: Category J saved.
+[category_logger] INFO: Category K saved.
+[category_logger] INFO: Category L saved.
+[category_logger] INFO: Category O saved.
+[category_logger] INFO: Category N saved.
+[category_logger] INFO: Category Q saved.
+[category_logger] INFO: Category B saved.
+[category_logger] INFO: Category P saved.
+[category_logger] INFO: Category M saved.
+[category_logger] INFO: Category C saved.
+[category_logger] INFO: Category Y saved.
+[category_logger] INFO: Category R saved.
+[category_logger] INFO: Category V saved.
+[category_logger] INFO: Category X saved.
+[category_logger] INFO: Category U saved.
+[category_logger] INFO: Category W saved.
+[recipe_logger] INFO: Recipe written for Cookbook:Friar's Omelette
+[recipe_logger] INFO: Recipe written for Cookbook:Fresh Tomato Galette
+[recipe_logger] INFO: Recipe written for Cookbook:Fresh Mozzarella Bruschetta
+[recipe_logger] INFO: Recipe written for Cookbook:Fresh Egg Pasta (Pasta Fresca All'uovo)
+[recipe_logger] INFO: Recipe written for Cookbook:French Toast
+[recipe_logger] INFO: Recipe written for Cookbook:French Fries
+[recipe_logger] INFO: Recipe written for Cookbook:Free Beer
+[category_logger] INFO: Category T saved.
+[category_logger] INFO: Category Z saved.
+[category_logger] INFO: Category S saved.
+[recipe_logger] INFO: Recipe written for Cookbook:Cappelletti Pasta Soup (Cappelletti in Brodo)
+[recipe_logger] INFO: Recipe written for Cookbook:Caramel Coffee Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Caponata (Sicilian Eggplant and Vegetables)
+[recipe_logger] INFO: Recipe written for Cookbook:Carrot and Coriander Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Carpetbag Steak
+[recipe_logger] INFO: Recipe written for Cookbook:Caramel Squares
+[recipe_logger] INFO: Recipe written for Cookbook:Coconut Cream and Pound Cake with Moscatel (Bienmesabe)
+[recipe_logger] INFO: Recipe written for Cookbook:Coconut Rice (Nasi Lemak)
+[recipe_logger] INFO: Recipe written for Cookbook:Cod, Olive Oil, and Cream Sauce (Brandade de Morue)
+[recipe_logger] INFO: Recipe written for Cookbook:Coconut Pyramids
+[recipe_logger] INFO: Recipe written for Cookbook:Switchel (Ginger Water)
+[recipe_logger] INFO: Recipe written for Cookbook:Sweet Rice I
+[recipe_logger] INFO: Recipe written for Cookbook:Cardamom Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Sweet Italian Sausage Skillet
+[recipe_logger] INFO: Recipe written for Cookbook:Sweet Peach Cobbler
+[recipe_logger] INFO: Recipe written for Cookbook:Sweet Cornbread
+[recipe_logger] INFO: Recipe written for Cookbook:Swedish Meatballs I
+[recipe_logger] INFO: Recipe written for Cookbook:Sweet and Sour Pork Loin
+[recipe_logger] INFO: Recipe written for Cookbook:Swedish Cabbage Soup (Kalsoppa)
+[recipe_logger] INFO: Recipe written for Cookbook:Caramel Sauce I
+[recipe_logger] INFO: Recipe written for Cookbook:Cochinita Pibil (Mexican Braised Pork)
+[recipe_logger] INFO: Recipe written for Cookbook:Surinamese Cassava and Coconut Dessert (Bojo)
+[recipe_logger] INFO: Recipe written for Cookbook:Sushi Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Surinamese Chicken Pot Pie (Pastei)
+[recipe_logger] INFO: Recipe written for Cookbook:Summer Rolls
+[recipe_logger] INFO: Recipe written for Cookbook:Stuffed Tomatoes
+[recipe_logger] INFO: Recipe written for Cookbook:Stuffed Zucchini
+[recipe_logger] INFO: Recipe written for Cookbook:Stuffed Peppers
+[recipe_logger] INFO: Recipe written for Cookbook:Stuffed Mushrooms with Crabmeat
+[recipe_logger] INFO: Recipe written for Cookbook:Strawberry Dumplings
+[recipe_logger] INFO: Recipe written for Cookbook:Strawberry Cream Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Stoofvlees (Flemish Beef Stew)
+[recipe_logger] INFO: Recipe written for Cookbook:Sticky Date Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Stollen
+[recipe_logger] INFO: Recipe written for Cookbook:Stir Fried Seafood with Noodles
+[recipe_logger] INFO: Recipe written for Cookbook:Cocoa-Coconut Bites
+[recipe_logger] INFO: Recipe written for Cookbook:Zuppa alla Modenese
+[recipe_logger] INFO: Recipe written for Cookbook:Zucchini Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Classic Pot Roast
+[recipe_logger] INFO: Recipe written for Cookbook:Zelenchukova Supa (Bulgarian Vegetable Soup)
+[recipe_logger] INFO: Recipe written for Cookbook:Stewed Vegan Maki
+[recipe_logger] INFO: Recipe written for Cookbook:Stewed Oysters I
+[recipe_logger] INFO: Recipe written for Cookbook:Classic Vanilla Milkshake
+[recipe_logger] INFO: Recipe written for Cookbook:Steamed Sweet Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Steamed Salmon
+[recipe_logger] INFO: Recipe written for Cookbook:Steamed Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Steamed Basmati Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Steamed Artichoke
+[recipe_logger] INFO: Recipe written for Cookbook:Steak, Bacon, and Gruyere Paninis
+[recipe_logger] INFO: Recipe written for Cookbook:Steak Tartare
+[recipe_logger] INFO: Recipe written for Cookbook:Steak and Ale Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Stargazy Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Spring Onion Spelt Spread
+[recipe_logger] INFO: Recipe written for Cookbook:Spinach Calzones
+[recipe_logger] INFO: Recipe written for Cookbook:Spoonbread
+[recipe_logger] INFO: Recipe written for Cookbook:Spinach Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Spinach Pie (Pascualina)
+[recipe_logger] INFO: Recipe written for Cookbook:Spinach Artichoke Dip
+[recipe_logger] INFO: Recipe written for Cookbook:Spicy Fried Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Spicy Chilli Chicken
+[recipe_logger] INFO: Recipe written for Cookbook:Spicy Chickpeas
+[recipe_logger] INFO: Recipe written for Cookbook:Spicy Cheddar Dip with Olives
+[recipe_logger] INFO: Recipe written for Cookbook:Spicy Carrot Aioli
+[recipe_logger] INFO: Recipe written for Cookbook:Spelt Yellow Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Spelt Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Spanish Omelet
+[recipe_logger] INFO: Recipe written for Cookbook:Spaghetti with Meat Sauce (Naporitan)
+[recipe_logger] INFO: Recipe written for Cookbook:Spaghetti with Clams
+[recipe_logger] INFO: Recipe written for Cookbook:Spaghetti Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Spaghetti Bake
+[recipe_logger] INFO: Recipe written for Cookbook:Spaghetti with Bolognese Meat Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Spaghetti alla Carbonara
+[recipe_logger] INFO: Recipe written for Cookbook:Spaetzle
+[recipe_logger] INFO: Recipe written for Cookbook:Soy Sauce Chicken
+[recipe_logger] INFO: Recipe written for Cookbook:South Texan Pinto Beans
+[recipe_logger] INFO: Recipe written for Cookbook:Soup alla Canavese
+[recipe_logger] INFO: Recipe written for Cookbook:Sourdough Starter
+[recipe_logger] INFO: Recipe written for Cookbook:Soji (Indian Wheat Pudding)
+[recipe_logger] INFO: Recipe written for Cookbook:Socca (Italian Chickpea Flatbread)
+[recipe_logger] INFO: Recipe written for Cookbook:Tyropita (Greek Cheese Pie)
+[recipe_logger] INFO: Recipe written for Cookbook:Tuscan Roast Potatoes
+[recipe_logger] INFO: Recipe written for Cookbook:Tuna Salad (1940)
+[recipe_logger] INFO: Recipe written for Cookbook:Steamed Buns with BBQ Pork
+[recipe_logger] INFO: Recipe written for Cookbook:Tuna Rice Casserole
+[recipe_logger] INFO: Recipe written for Cookbook:Tuna Melt Fishcakes
+[recipe_logger] INFO: Recipe written for Cookbook:Tuna Glop
+[recipe_logger] INFO: Recipe written for Cookbook:Tuna Curry
+[recipe_logger] INFO: Recipe written for Cookbook:Tropical Squares
+[recipe_logger] INFO: Recipe written for Cookbook:Tripe Soup (Shkembe Chorba)
+[recipe_logger] INFO: Recipe written for Cookbook:Sour Cream Dip
+[recipe_logger] INFO: Recipe written for Cookbook:Trifle
+[recipe_logger] INFO: Recipe written for Cookbook:Traditional Tuna Casserole
+[recipe_logger] INFO: Recipe written for Cookbook:Traditional Pilau Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Traditional Pie Crust
+[recipe_logger] INFO: Recipe written for Cookbook:Traditional Finnish Lemon Mead (Sima)
+[recipe_logger] INFO: Recipe written for Cookbook:Traditional Lasagne
+[recipe_logger] INFO: Recipe written for Cookbook:Tonkotsu Ramen
+[recipe_logger] INFO: Recipe written for Cookbook:Tomato Pizza
+[recipe_logger] INFO: Recipe written for Cookbook:Toston (Fried Plantains)
+[recipe_logger] INFO: Recipe written for Cookbook:Tonkatsu
+[recipe_logger] INFO: Recipe written for Cookbook:Tortilla Canaria
+[recipe_logger] INFO: Recipe written for Cookbook:Tomato Concasse
+[recipe_logger] INFO: Recipe written for Cookbook:Tomato Curry
+[recipe_logger] INFO: Recipe written for Cookbook:Snezhanka (Bulgarian Cucumber and Yogurt Salad)
+[recipe_logger] INFO: Recipe written for Cookbook:Tomato Pasta
+[recipe_logger] INFO: Recipe written for Cookbook:Tomato Juice
+[recipe_logger] INFO: Recipe written for Cookbook:Smore (Eurasian Beef Stew)
+[recipe_logger] INFO: Recipe written for Cookbook:Snickerdoodles IV
+[recipe_logger] INFO: Recipe written for Cookbook:Smoked Salmon Dip
+[recipe_logger] INFO: Recipe written for Cookbook:Sloppy Joes
+[recipe_logger] INFO: Recipe written for Cookbook:Skillet Cornbread
+[recipe_logger] INFO: Recipe written for Cookbook:Sirniki (Russian Cheese Fritters)
+[recipe_logger] INFO: Recipe written for Cookbook:Sirene po Shopski (Bulgarian Cheese and Tomatoes)
+[recipe_logger] INFO: Recipe written for Cookbook:Sinigang (Philippine Sour Soup)
+[recipe_logger] INFO: Recipe written for Cookbook:Tuna Fish Cakes
+[recipe_logger] INFO: Recipe written for Cookbook:Simple Nachos
+[recipe_logger] INFO: Recipe written for Cookbook:Simple Chocolate Cheese Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Simple Buttercream
+[recipe_logger] INFO: Recipe written for Cookbook:Shrimp Hooman (Goan Shrimp Curry)
+[recipe_logger] INFO: Recipe written for Cookbook:Shrimp Fritters (Accra)
+[recipe_logger] INFO: Recipe written for Cookbook:Shrimp and Sea Bass Ceviche
+[recipe_logger] INFO: Recipe written for Cookbook:Shortcrust Pastry
+[recipe_logger] INFO: Recipe written for Cookbook:Shortbread
+[recipe_logger] INFO: Recipe written for Cookbook:Shepherd's Pie I
+[recipe_logger] INFO: Recipe written for Cookbook:Shopska Salata (Tomato, Cucumber, and Bell Pepper Salad)
+[recipe_logger] INFO: Recipe written for Cookbook:Shashlik (Russian Skewered Meat)
+[recipe_logger] INFO: Recipe written for Cookbook:Shepherd's Pie II
+[recipe_logger] INFO: Recipe written for Cookbook:Sesame Shrimp Toast
+[recipe_logger] INFO: Recipe written for Cookbook:Self-rising Flour
+[recipe_logger] INFO: Recipe written for Cookbook:Seafood Fried Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Schwarzwalder Kirschtorte (Black Forest Cake)
+[recipe_logger] INFO: Recipe written for Cookbook:Scheiterhaufen (Austrian Bread Pudding)
+[recipe_logger] INFO: Recipe written for Cookbook:Wisconsin Ackawi Cheese Triangles
+[recipe_logger] INFO: Recipe written for Cookbook:Windsor Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Seafood Risotto
+[recipe_logger] INFO: Recipe written for Cookbook:Seafood Kebabs with Zhoug Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Whole Wheat Bread
+[recipe_logger] INFO: Recipe written for Cookbook:White Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:White Fish Ceviche (Cebiche de Pescado)
+[recipe_logger] INFO: Recipe written for Cookbook:White Chocolate Cheesecake
+[recipe_logger] INFO: Recipe written for Cookbook:White Bread
+[recipe_logger] INFO: Recipe written for Cookbook:White Bean Soup (Bob Chorba)
+[recipe_logger] INFO: Recipe written for Cookbook:White Bean and Pumpkin Leaf Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Smoked Salmon Ravioli Filling
+[recipe_logger] INFO: Recipe written for Cookbook:Whipped Cream
+[recipe_logger] INFO: Recipe written for Cookbook:Welsh Rarebit
+[recipe_logger] INFO: Recipe written for Cookbook:Welsh Fruit Bread (Bara Brith) I
+[recipe_logger] INFO: Recipe written for Cookbook:Welsh Cakes
+[recipe_logger] INFO: Recipe written for Cookbook:Waterzooi
+[recipe_logger] INFO: Recipe written for Cookbook:Waldorf Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Ukrainian Cornmeal Stuffing (Nachynka)
+[recipe_logger] INFO: Recipe written for Cookbook:Ume-shu (Japanese Plum Juice)
+[recipe_logger] INFO: Recipe written for Cookbook:Toad in the Hole
+[recipe_logger] INFO: Recipe written for Cookbook:Tofu Chocolate Mousse
+[recipe_logger] INFO: Recipe written for Cookbook:Tod Mun (Thai Fish Cakes)
+[recipe_logger] INFO: Recipe written for Cookbook:Toasted Baguette Slices with Pecan Butter, Brie and Apples
+[recipe_logger] INFO: Recipe written for Cookbook:Tom Yum Gai
+[recipe_logger] INFO: Recipe written for Cookbook:Tom Kha Kai
+[recipe_logger] INFO: Recipe written for Cookbook:Tisane ma Louisa (Algerian Lemon Herb Tea)
+[recipe_logger] INFO: Recipe written for Cookbook:Tiramisu
+[recipe_logger] INFO: Recipe written for Cookbook:Thumbprint Jam Cookies
+[recipe_logger] INFO: Recipe written for Cookbook:Tex-Mex Sliders
+[recipe_logger] INFO: Recipe written for Cookbook:Thousand Island Dressing
+[recipe_logger] INFO: Recipe written for Cookbook:Thai Green Curry
+[recipe_logger] INFO: Recipe written for Cookbook:Teurgoule (Norman Cinnamon Rice Pudding)
+[recipe_logger] INFO: Recipe written for Cookbook:Thai Rice Balls in Coconut Milk (Bua Loi)
+[recipe_logger] INFO: Recipe written for Cookbook:Teriyaki Grilled Salmon Steaks
+[recipe_logger] INFO: Recipe written for Cookbook:Tequenos (Venezuelan Breaded Cheese Sticks)
+[recipe_logger] INFO: Recipe written for Cookbook:Tartar Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Tarator (Bulgarian Cucumber Soup)
+[recipe_logger] INFO: Recipe written for Cookbook:Tapenade
+[recipe_logger] INFO: Recipe written for Cookbook:Tangerine Jelly
+[recipe_logger] INFO: Recipe written for Cookbook:Tamina (Algerian Semolina Honey Dessert)
+[recipe_logger] INFO: Recipe written for Cookbook:Tahini Yogurt Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Tagliatelle Bake
+[recipe_logger] INFO: Recipe written for Cookbook:Tadka Dhal (Spiced Lentil Curry) I
+[recipe_logger] INFO: Recipe written for Cookbook:Tacos
+[recipe_logger] INFO: Recipe written for Cookbook:Taco Meat
+[recipe_logger] INFO: Recipe written for Cookbook:Taco Casserole
+[recipe_logger] INFO: Recipe written for Cookbook:Table Point Boiled Beef and Vegetables (Tafelspitz)
+[recipe_logger] INFO: Recipe written for Cookbook:Tabbouleh I
+[recipe_logger] INFO: Recipe written for Cookbook:Vorschmack (Finnish Ground Meat)
+[recipe_logger] INFO: Recipe written for Cookbook:Venison Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Venison Italian Style
+[recipe_logger] INFO: Recipe written for Cookbook:Vietnamese Rice Noodle and Beef Soup (Bun bo Hue)
+[recipe_logger] INFO: Recipe written for Cookbook:Victoria Sandwich
+[recipe_logger] INFO: Recipe written for Cookbook:Xato (Catalan Endives and Fish)
+[recipe_logger] INFO: Recipe written for Cookbook:Venison Bolognese Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Venetian Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Veloute Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Vegetable Stuffed Mushrooms
+[recipe_logger] INFO: Recipe written for Cookbook:Vegetable Spring Roll
+[recipe_logger] INFO: Recipe written for Cookbook:Valentine's Day Chocolate Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Savoury Rice Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Sauerkraut I
+[recipe_logger] INFO: Recipe written for Cookbook:San Francisco Sourdough Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Salzburger Nockerl (Sweet Austrian Souffle)
+[recipe_logger] INFO: Recipe written for Cookbook:Sambar I
+[recipe_logger] INFO: Recipe written for Cookbook:Sangria
+[recipe_logger] INFO: Recipe written for Cookbook:Salted Fish Fried Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Tattie Scones
+[recipe_logger] INFO: Recipe written for Cookbook:Salt Cod and Potato Casserole (Bacalhau a Ze do Pipo)
+[recipe_logger] INFO: Recipe written for Cookbook:Salt Cod and Potato Casserole (Bacalhau a Gomes de Sa)
+[recipe_logger] INFO: Recipe written for Cookbook:Salsa (Fermented)
+[recipe_logger] INFO: Recipe written for Cookbook:Salmon Spaghetti
+[recipe_logger] INFO: Recipe written for Cookbook:Salad Beijing
+[recipe_logger] INFO: Recipe written for Cookbook:Sachertorte (Duramecho Version)
+[recipe_logger] INFO: Recipe written for Cookbook:Sachertorte
+[recipe_logger] INFO: Recipe written for Cookbook:S'mores
+[recipe_logger] INFO: Recipe written for Cookbook:Rye Bread Layer Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Rye Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Russian Tea
+[recipe_logger] INFO: Recipe written for Cookbook:Rugelach
+[recipe_logger] INFO: Recipe written for Cookbook:Rosogulla (Bengali Milk Balls in Syrup)
+[recipe_logger] INFO: Recipe written for Cookbook:Rosemary Garlic Baked Potatoes
+[recipe_logger] INFO: Recipe written for Cookbook:Veggie Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Romanian Grilled Sausages (Mititei)
+[recipe_logger] INFO: Recipe written for Cookbook:Roasted Pork Shoulder (Pernil Asado)
+[recipe_logger] INFO: Recipe written for Cookbook:Roast Beef
+[recipe_logger] INFO: Recipe written for Cookbook:Risotto ai Funghi
+[recipe_logger] INFO: Recipe written for Cookbook:Roasted Chicken Nachos With Green Chili-Cheese Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Roman Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Roasted Vegetable Pasta
+[recipe_logger] INFO: Recipe written for Cookbook:Danish Braised Cabbage (Rodkal)
+[recipe_logger] INFO: Recipe written for Cookbook:Risotto (Basic)
+[recipe_logger] INFO: Recipe written for Cookbook:Rice Bubble Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Rice with Black Beans (Arroz con Frijoles Negros)
+[recipe_logger] INFO: Recipe written for Cookbook:Rice with Tofu and Nuts
+[recipe_logger] INFO: Recipe written for Cookbook:Rice Wheat Spread
+[recipe_logger] INFO: Recipe written for Cookbook:Rice Cooked in Tomato Meat Sauce (Ross il-Forn)
+[recipe_logger] INFO: Recipe written for Cookbook:Rice Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Rich Biscuits
+[recipe_logger] INFO: Recipe written for Cookbook:Rice with Lemon Coconut and Eggplant (Vangibhat)
+[recipe_logger] INFO: Recipe written for Cookbook:Rhubarb Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Rhubarb Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Rhubarb Fool
+[recipe_logger] INFO: Recipe written for Cookbook:Rhubarb Crumble I
+[recipe_logger] INFO: Recipe written for Cookbook:Rhubarb Crumble II
+[recipe_logger] INFO: Recipe written for Cookbook:Rhubarb Crumble III
+[recipe_logger] INFO: Recipe written for Cookbook:Reuben Sandwich
+[recipe_logger] INFO: Recipe written for Cookbook:Rendang (Indonesian Beef and Coconut Stew)
+[recipe_logger] INFO: Recipe written for Cookbook:Reindling (Austrian Yeasted Easter Cake)
+[recipe_logger] INFO: Recipe written for Cookbook:Red and White Onion Tapenade
+[recipe_logger] INFO: Recipe written for Cookbook:Rainbow Jell-O
+[recipe_logger] INFO: Recipe written for Cookbook:Raisin Oatmeal Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Raspberry Filled Pastry Strips (Alexandertorte)
+[recipe_logger] INFO: Recipe written for Cookbook:Radish Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Yorkshire Pudding (Vegan)
+[recipe_logger] INFO: Recipe written for Cookbook:Yorkshire Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Yogurt Dip
+[recipe_logger] INFO: Recipe written for Cookbook:Yogi Tea
+[recipe_logger] INFO: Recipe written for Cookbook:Yerushalmi Kugel (Sweet Noodle Casserole)
+[recipe_logger] INFO: Recipe written for Cookbook:Yellow Split Pea Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Yeasted Rolls II
+[recipe_logger] INFO: Recipe written for Cookbook:Yeasted Cornbread
+[recipe_logger] INFO: Recipe written for Cookbook:Yam Casserole
+[recipe_logger] INFO: Recipe written for Cookbook:Curry and Honey Chicken
+[recipe_logger] INFO: Recipe written for Cookbook:Creme Brulee II
+[recipe_logger] INFO: Recipe written for Cookbook:Cucumber, Tomato, and Onion Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Cupcakes (Plain)
+[recipe_logger] INFO: Recipe written for Cookbook:Crepes I
+[recipe_logger] INFO: Recipe written for Cookbook:Creme Brulee I
+[recipe_logger] INFO: Recipe written for Cookbook:Crystallised Orange Peel
+[recipe_logger] INFO: Recipe written for Cookbook:Crunchy Baked Chicken
+[recipe_logger] INFO: Recipe written for Cookbook:Croissant
+[recipe_logger] INFO: Recipe written for Cookbook:Crock Pot Beef Stew
+[recipe_logger] INFO: Recipe written for Cookbook:Crispy Gingerbread Cookies
+[recipe_logger] INFO: Recipe written for Cookbook:Croque Monsieur
+[recipe_logger] INFO: Recipe written for Cookbook:Creme Brulee Cheesecake
+[recipe_logger] INFO: Recipe written for Cookbook:Creamed Spinach
+[recipe_logger] INFO: Recipe written for Cookbook:Cream Puff
+[recipe_logger] INFO: Recipe written for Cookbook:Cream of Mushroom Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Cream of Duck and Mushroom Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Crawfish Boil
+[recipe_logger] INFO: Recipe written for Cookbook:Cranberry Orange Squares
+[recipe_logger] INFO: Recipe written for Cookbook:Rice and Beef Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Crab Dip
+[recipe_logger] INFO: Recipe written for Cookbook:Crab Cakes
+[recipe_logger] INFO: Recipe written for Cookbook:Cottage Cheese Pancakes
+[recipe_logger] INFO: Recipe written for Cookbook:Cornmeal Pancakes (Arepa)
+[recipe_logger] INFO: Recipe written for Cookbook:Cornish Fairing
+[recipe_logger] INFO: Recipe written for Cookbook:Corned Beef Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Cornbread II
+[recipe_logger] INFO: Recipe written for Cookbook:Corn Sticks
+[recipe_logger] INFO: Recipe written for Cookbook:Corn Bread (Lombardy)
+[recipe_logger] INFO: Recipe written for Cookbook:Corn Dogs
+[recipe_logger] INFO: Recipe written for Cookbook:Consomme
+[recipe_logger] INFO: Recipe written for Cookbook:Corn and Shrimp Chowder
+[recipe_logger] INFO: Recipe written for Cookbook:Colonial Goose
+[recipe_logger] INFO: Recipe written for Cookbook:Coq au Vin I
+[recipe_logger] INFO: Recipe written for Cookbook:Cookies with Pineapple Jam Filling (Nastar)
+[recipe_logger] INFO: Recipe written for Cookbook:Coleslaw I
+[recipe_logger] INFO: Recipe written for Cookbook:Cognac Beef Stew
+[recipe_logger] INFO: Recipe written for Cookbook:Coffee Mousse
+[recipe_logger] INFO: Recipe written for Cookbook:Moqueca de Peixe (Brazilian Seafood Stew)
+[recipe_logger] INFO: Recipe written for Cookbook:Musli
+[recipe_logger] INFO: Recipe written for Cookbook:Moroccan Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Mushroom Barley Bean Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Mussels with Potatoes
+[recipe_logger] INFO: Recipe written for Cookbook:Mushroom Caps Stuffed with Bacon and Cheese
+[recipe_logger] INFO: Recipe written for Cookbook:Moin Moin (Nigerian Bean Pudding)
+[recipe_logger] INFO: Recipe written for Cookbook:Mocha Icing
+[recipe_logger] INFO: Recipe written for Cookbook:Mirliton Casserole
+[recipe_logger] INFO: Recipe written for Cookbook:Mini Herb Baguettes
+[recipe_logger] INFO: Recipe written for Cookbook:Mini English Muffin Pizzas
+[recipe_logger] INFO: Recipe written for Cookbook:Mincemeat Tart
+[recipe_logger] INFO: Recipe written for Cookbook:Milk Toast I
+[recipe_logger] INFO: Recipe written for Cookbook:Microwaved Artichoke
+[recipe_logger] INFO: Recipe written for Cookbook:Microwave Chocolate Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Microwave Chocolate Cake II
+[recipe_logger] INFO: Recipe written for Cookbook:Mexican Tomato Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Mexican Rice I
+[recipe_logger] INFO: Recipe written for Cookbook:Vanilla Ice Cream (Egg-Free)
+[recipe_logger] INFO: Recipe written for Cookbook:Scottish Wheat Bannock Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Meringue Cookies I
+[recipe_logger] INFO: Recipe written for Cookbook:Memphis-Style BBQ Ribs
+[recipe_logger] INFO: Recipe written for Cookbook:Mediterranean Grilled Tuna
+[recipe_logger] INFO: Recipe written for Cookbook:Medu Vada (South Indian Savory Lentil Donut)
+[recipe_logger] INFO: Recipe written for Cookbook:Mediterranean Beef Stew
+[recipe_logger] INFO: Recipe written for Cookbook:Meatloaf I
+[recipe_logger] INFO: Recipe written for Cookbook:Mediterranean Green Chicken
+[recipe_logger] INFO: Recipe written for Cookbook:Puri (Indian Fried Flatbread)
+[recipe_logger] INFO: Recipe written for Cookbook:Pumpkin Risotto
+[recipe_logger] INFO: Recipe written for Cookbook:Pumpkin Pie II
+[recipe_logger] INFO: Recipe written for Cookbook:Pumpkin Pie I
+[recipe_logger] INFO: Recipe written for Cookbook:Pulut Durian (Durian with Sticky Rice)
+[recipe_logger] INFO: Recipe written for Cookbook:Puerto Rican Chicken Soup (Asopao)
+[recipe_logger] INFO: Recipe written for Cookbook:Puttanesca Sauce (Vegan)
+[recipe_logger] INFO: Recipe written for Cookbook:Masala Chai I
+[recipe_logger] INFO: Recipe written for Cookbook:Prekmurska Gibanica (Slovenian Layered Strudel Cake)
+[recipe_logger] INFO: Recipe written for Cookbook:Poutine
+[recipe_logger] INFO: Recipe written for Cookbook:Pouch-Roasted Snapper
+[recipe_logger] INFO: Recipe written for Cookbook:Meatloaf V
+[recipe_logger] INFO: Recipe written for Cookbook:Meatloaf II
+[recipe_logger] INFO: Recipe written for Cookbook:Meatloaf III
+[recipe_logger] INFO: Recipe written for Cookbook:Potsticker
+[recipe_logger] INFO: Recipe written for Cookbook:Potatoes with Green Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Potatoes Anna
+[recipe_logger] INFO: Recipe written for Cookbook:Potato Stew
+[recipe_logger] INFO: Recipe written for Cookbook:Potato Samosas (Aloo Pies)
+[recipe_logger] INFO: Recipe written for Cookbook:Meat and Potatoes in Broth (Niku Jaga)
+[recipe_logger] INFO: Recipe written for Cookbook:Mazorca Desgranada (Colombian Beef Salad)
+[recipe_logger] INFO: Recipe written for Cookbook:Potato Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Potato Omelet
+[recipe_logger] INFO: Recipe written for Cookbook:Potato Kugel
+[recipe_logger] INFO: Recipe written for Cookbook:Potato Casserole (Rakott Krumpli)
+[recipe_logger] INFO: Recipe written for Cookbook:Potato Castle
+[recipe_logger] INFO: Recipe written for Cookbook:Potato and Sausage Casserole (Papa Turmada)
+[recipe_logger] INFO: Recipe written for Cookbook:Potato and Cauliflower Curry (Aloo Gobi)
+[recipe_logger] INFO: Recipe written for Cookbook:Potage Parmentier
+[recipe_logger] INFO: Recipe written for Cookbook:Portuguese Feijoada
+[recipe_logger] INFO: Recipe written for Cookbook:Pork Tenderloin with Asparagus and Prosciutto
+[recipe_logger] INFO: Recipe written for Cookbook:Pork Spare Rib Soup (Bah Kut Teh)
+[recipe_logger] INFO: Recipe written for Cookbook:Pork Chops Cacciatore
+[recipe_logger] INFO: Recipe written for Cookbook:Pork Braised with Garlic and Onions of Indonesia (Babi Kecap)
+[recipe_logger] INFO: Recipe written for Cookbook:Ponche de Creme
+[recipe_logger] INFO: Recipe written for Cookbook:Polish Cauliflower with Breadcrumbs
+[recipe_logger] INFO: Recipe written for Cookbook:Plain Bagels
+[recipe_logger] INFO: Recipe written for Cookbook:Pita
+[recipe_logger] INFO: Recipe written for Cookbook:Pohe (Spiced Flattened Rice)
+[recipe_logger] INFO: Recipe written for Cookbook:Pudina Hilsa (Bengali Fish with Mint)
+[recipe_logger] INFO: Recipe written for Cookbook:Cinnamon Bun
+[recipe_logger] INFO: Recipe written for Cookbook:Churri (Indian Yogurt Herb Sauce)
+[recipe_logger] INFO: Recipe written for Cookbook:Churros I
+[recipe_logger] INFO: Recipe written for Cookbook:Chupaqueso
+[recipe_logger] INFO: Recipe written for Cookbook:Cilbir (Turkish Eggs with Yogurt)
+[recipe_logger] INFO: Recipe written for Cookbook:Cinnamon Croutons
+[recipe_logger] INFO: Recipe written for Cookbook:Chunky Cran Apple Bran Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Cirdingis (Chechen Meat and Dumplings)
+[recipe_logger] INFO: Recipe written for Cookbook:Cinnamon Chicken
+[recipe_logger] INFO: Recipe written for Cookbook:Choucroute (Sauerkraut with Meat and Potatoes)
+[recipe_logger] INFO: Recipe written for Cookbook:Christmas Pudding I
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Zucchini Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Christmas Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Cholley (Chickpea Curry)
+[recipe_logger] INFO: Recipe written for Cookbook:Christmas Ham
+[recipe_logger] INFO: Recipe written for Cookbook:Chokladboll (Swedish Chocolate Balls)
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Macaroons (no-bake)
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Mousse
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Icing
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Squares
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Pear Bake
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Sour-Cream Icing
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Noodles with Vanilla sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Mousse Cake (Vegan)
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Chip Rolls
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Chocolate Chip Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Crinkles
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Cheesecake
+[recipe_logger] INFO: Recipe written for Cookbook:Chips Cheese and Gravy
+[recipe_logger] INFO: Recipe written for Cookbook:1-2 Chocolate Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Chipped Beef on Toast
+[recipe_logger] INFO: Recipe written for Cookbook:Chinese Chews (Nut and Date Bars)
+[recipe_logger] INFO: Recipe written for Cookbook:Chipotle Chili
+[recipe_logger] INFO: Recipe written for Cookbook:Chinese Rice Porridge (Congee)
+[recipe_logger] INFO: Recipe written for Cookbook:Chilaquiles
+[recipe_logger] INFO: Recipe written for Cookbook:Chickpea Stew
+[recipe_logger] INFO: Recipe written for Cookbook:Quiche
+[recipe_logger] INFO: Recipe written for Cookbook:Chocolate Chip Cookies (Gluten-Free)
+[recipe_logger] INFO: Recipe written for Cookbook:Chile Lime Marinade
+[recipe_logger] INFO: Recipe written for Cookbook:Chili con Bambi
+[recipe_logger] INFO: Recipe written for Cookbook:Queens Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Queen of Puddings
+[recipe_logger] INFO: Recipe written for Cookbook:Qarabaghli Mimli (Maltese Stuffed Summer Squash)
+[recipe_logger] INFO: Recipe written for Cookbook:Qabuli (Central Asian Rice Pilaf)
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken a la King
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken with Paprika and Cream
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Wings Asian Style
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Tikka
+[recipe_logger] INFO: Recipe written for Cookbook:Marinated Green Olives
+[recipe_logger] INFO: Recipe written for Cookbook:Marinated Cucumbers and Onions
+[recipe_logger] INFO: Recipe written for Cookbook:Mapo Tofu
+[recipe_logger] INFO: Recipe written for Cookbook:Maple-Glazed BBQ Ribs
+[recipe_logger] INFO: Recipe written for Cookbook:Maple Glazed Chicken Breasts
+[recipe_logger] INFO: Recipe written for Cookbook:Marinara Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Maple Beans
+[recipe_logger] INFO: Recipe written for Cookbook:Maple Syrup Planked Salmon
+[recipe_logger] INFO: Recipe written for Cookbook:Macaroni Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Pineapple Side Dish
+[recipe_logger] INFO: Recipe written for Cookbook:Pineapple Fried Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Maple Barbecue Baby Back Ribs
+[recipe_logger] INFO: Recipe written for Cookbook:Mango Atchar
+[recipe_logger] INFO: Recipe written for Cookbook:Manx Smoked Salmon
+[recipe_logger] INFO: Recipe written for Cookbook:Mango and Coconut Chutney (Am ki Chatni)
+[recipe_logger] INFO: Recipe written for Cookbook:Maitorieska (Finnish Barley Flatbread)
+[recipe_logger] INFO: Recipe written for Cookbook:Mandarin Orange Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Pineapple Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Madeira Honey Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Pickled Herring
+[recipe_logger] INFO: Recipe written for Cookbook:Pikelet (Australian Mini Pancakes)
+[recipe_logger] INFO: Recipe written for Cookbook:Pickled Green Mango (Aavakaaya)
+[recipe_logger] INFO: Recipe written for Cookbook:Pedernales River Chili
+[recipe_logger] INFO: Recipe written for Cookbook:Peruvian Molded Rice (Arroz Tapado)
+[recipe_logger] INFO: Recipe written for Cookbook:Pesto I
+[recipe_logger] INFO: Recipe written for Cookbook:Pecan Blondies
+[recipe_logger] INFO: Recipe written for Cookbook:Pease Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Perfect Three Course Dinner
+[recipe_logger] INFO: Recipe written for Cookbook:Pattaya Fried Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Pasta Casserole (Pastitsio)
+[recipe_logger] INFO: Recipe written for Cookbook:Peanut Butter Cookies
+[recipe_logger] INFO: Recipe written for Cookbook:Pastry Dough (recipe)
+[recipe_logger] INFO: Recipe written for Cookbook:Pastries Filled with Jam (Marmeladetascherl)
+[recipe_logger] INFO: Recipe written for Cookbook:Pasta and Bean Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Pashofa (Chickasaw Pork and Corn)
+[recipe_logger] INFO: Recipe written for Cookbook:Party Mix
+[recipe_logger] INFO: Recipe written for Cookbook:Peach and Tomato Gazpacho
+[recipe_logger] INFO: Recipe written for Cookbook:Parmesan Cheese Souffle
+[recipe_logger] INFO: Recipe written for Cookbook:Pad Thai Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Panna Cotta with Red Fruit Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Paneer
+[recipe_logger] INFO: Recipe written for Cookbook:Pancakes (North American)
+[recipe_logger] INFO: Recipe written for Cookbook:Pan-Fried White Brined Cheese (Saganaki)
+[recipe_logger] INFO: Recipe written for Cookbook:Paella de Marisco
+[recipe_logger] INFO: Recipe written for Cookbook:Nut Roll
+[recipe_logger] INFO: Recipe written for Cookbook:North Staffordshire Oatcakes
+[recipe_logger] INFO: Recipe written for Cookbook:Paella Roja
+[recipe_logger] INFO: Recipe written for Cookbook:Pain au Levain Naturel
+[recipe_logger] INFO: Recipe written for Cookbook:Nuked Nachos
+[recipe_logger] INFO: Recipe written for Cookbook:New Mexico Pork Tamales
+[recipe_logger] INFO: Recipe written for Cookbook:No-Bake Chocolate Chip Cookie Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Nilagang Baka (Boiled Beef and Vegetables in Broth)
+[recipe_logger] INFO: Recipe written for Cookbook:Nicoise Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Nigiri Sushi
+[recipe_logger] INFO: Recipe written for Cookbook:Naan
+[recipe_logger] INFO: Recipe written for Cookbook:Never Fail Pie Crust
+[recipe_logger] INFO: Recipe written for Cookbook:New England Potato Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Neapolitan Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Neapolitan Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Original Texas-Style Chili
+[recipe_logger] INFO: Recipe written for Cookbook:Nachos
+[recipe_logger] INFO: Recipe written for Cookbook:Oven Pancakes (Vegan)
+[recipe_logger] INFO: Recipe written for Cookbook:Nasi Goreng (Indonesian Fried Rice)
+[recipe_logger] INFO: Recipe written for Cookbook:Oven Pancakes
+[recipe_logger] INFO: Recipe written for Cookbook:Oreo Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Ossobuco Alla Milanese
+[recipe_logger] INFO: Recipe written for Cookbook:Orange Sherbet Smoothie
+[recipe_logger] INFO: Recipe written for Cookbook:Orange Chocolate Chip Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Orange Julius
+[recipe_logger] INFO: Recipe written for Cookbook:Orange Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Oat Porridge
+[recipe_logger] INFO: Recipe written for Cookbook:Oatmeal Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Oatmeal Cookies II
+[recipe_logger] INFO: Recipe written for Cookbook:Oatmeal Cookies I
+[recipe_logger] INFO: Recipe written for Cookbook:OpenCola
+[recipe_logger] INFO: Recipe written for Cookbook:Oatmeal Chocolate Chip Cookies II
+[recipe_logger] INFO: Recipe written for Cookbook:Lumpia (Fried Filipino Spring Rolls)
+[recipe_logger] INFO: Recipe written for Cookbook:Oatmeal Chocolate Chip Cookies I
+[recipe_logger] INFO: Recipe written for Cookbook:Luciabullar (Scandinavian Saffron Buns)
+[recipe_logger] INFO: Recipe written for Cookbook:Lime and Mascarpone Cheesecake
+[recipe_logger] INFO: Recipe written for Cookbook:Lentil, Barley, and Tomato Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Locrio (Dominican Chicken and Rice)
+[recipe_logger] INFO: Recipe written for Cookbook:Lobster Thermidor
+[recipe_logger] INFO: Recipe written for Cookbook:Lemon Poppy Seed Muffins (Glazed)
+[recipe_logger] INFO: Recipe written for Cookbook:Lemon Squares
+[recipe_logger] INFO: Recipe written for Cookbook:Lemon Meringue Pie (British)
+[recipe_logger] INFO: Recipe written for Cookbook:Lemon Chicken Pasta
+[recipe_logger] INFO: Recipe written for Cookbook:Lady Finger Cookies (Savoiardi)
+[recipe_logger] INFO: Recipe written for Cookbook:Lekhchef (Algerian Raisin Drink)
+[recipe_logger] INFO: Recipe written for Cookbook:Lemon Curd
+[recipe_logger] INFO: Recipe written for Cookbook:Latte di Suocera (Lemon Cream Liqueur)
+[recipe_logger] INFO: Recipe written for Cookbook:Latino Scramble
+[recipe_logger] INFO: Recipe written for Cookbook:Lemon Meringue Pie (American)
+[recipe_logger] INFO: Recipe written for Cookbook:Lancashire Parkin
+[recipe_logger] INFO: Recipe written for Cookbook:Lasagne with Bean Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Kheer (Rice Pudding)
+[recipe_logger] INFO: Recipe written for Cookbook:Knoephla (Small Flour Dumplings)
+[recipe_logger] INFO: Recipe written for Cookbook:Kuddi (Spiced Yogurt Sauce)
+[recipe_logger] INFO: Recipe written for Cookbook:Khao Pad Gai (Thai Chicken Fried Rice)
+[recipe_logger] INFO: Recipe written for Cookbook:Kesra (Algerian Semolina Flatbread)
+[recipe_logger] INFO: Recipe written for Cookbook:Kari Ayam (Indonesian Chicken Curry)
+[recipe_logger] INFO: Recipe written for Cookbook:Kaiserschmarrn (Austrian Shredded Pancake)
+[recipe_logger] INFO: Recipe written for Cookbook:Killer Queso Dip
+[recipe_logger] INFO: Recipe written for Cookbook:Kibbeh
+[recipe_logger] INFO: Recipe written for Cookbook:Kasnocken (Austrian Cheese Dumplings)
+[recipe_logger] INFO: Recipe written for Cookbook:Key Lime Meringue Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Jailhouse Chili
+[recipe_logger] INFO: Recipe written for Cookbook:Kal Kals (Sweet Curled Fritters)
+[recipe_logger] INFO: Recipe written for Cookbook:Koeksisters (Fried Braided Pastry in Syrup)
+[recipe_logger] INFO: Recipe written for Cookbook:Karelian Pasties (Karjalanpiirakat)
+[recipe_logger] INFO: Recipe written for Cookbook:Jalapeno Sausage and Bacon Appetizers (Atomic Buffalo Turds)
+[recipe_logger] INFO: Recipe written for Cookbook:Jambalaya II
+[recipe_logger] INFO: Recipe written for Cookbook:Japanese Red Bean Buns
+[recipe_logger] INFO: Recipe written for Cookbook:Jam Roly-Poly
+[recipe_logger] INFO: Recipe written for Cookbook:Bunuelos (Sweet Fried Pastry)
+[recipe_logger] INFO: Recipe written for Cookbook:Bete Noire (Flourless Chocolate Cake)
+[recipe_logger] INFO: Recipe written for Cookbook:Burmese Pork Curry
+[recipe_logger] INFO: Recipe written for Cookbook:Butter Tart
+[recipe_logger] INFO: Recipe written for Cookbook:Bulgur Burgers
+[recipe_logger] INFO: Recipe written for Cookbook:Bulgogi
+[recipe_logger] INFO: Recipe written for Cookbook:Burgoo
+[recipe_logger] INFO: Recipe written for Cookbook:Bumbleberry Souffle
+[recipe_logger] INFO: Recipe written for Cookbook:Buffalo Wings
+[recipe_logger] INFO: Recipe written for Cookbook:Buffalo Chicken Sandwich
+[recipe_logger] INFO: Recipe written for Cookbook:Buchteln (Austrian Sweet Buns)
+[recipe_logger] INFO: Recipe written for Cookbook:Buuz (Mongolian Meat Dumplings)
+[recipe_logger] INFO: Recipe written for Cookbook:Bulgarian Meatball Soup (Supa Topcheta)
+[recipe_logger] INFO: Recipe written for Cookbook:Bryndzove Halusky (Slovak Dumplings with Cheese)
+[recipe_logger] INFO: Recipe written for Cookbook:Rich Brownies
+[recipe_logger] INFO: Recipe written for Cookbook:Bruschetta
+[recipe_logger] INFO: Recipe written for Cookbook:Egg White Carrot Brownies
+[recipe_logger] INFO: Recipe written for Cookbook:Cherry Brownies
+[recipe_logger] INFO: Recipe written for Cookbook:Cake Brownies
+[recipe_logger] INFO: Recipe written for Cookbook:Almond Fudge Brownies
+[recipe_logger] INFO: Recipe written for Cookbook:Magic Brownies
+[recipe_logger] INFO: Recipe written for Cookbook:Fudge Brownies
+[recipe_logger] INFO: Recipe written for Cookbook:Bread with Tomato Sauce (Pappa al Pomodoro)
+[recipe_logger] INFO: Recipe written for Cookbook:Bread Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Brazilian Shrimp and Cassava Sauce (Bobo de Camarao)
+[recipe_logger] INFO: Recipe written for Cookbook:Brown Sugar Nutmeg Cookies
+[recipe_logger] INFO: Recipe written for Cookbook:Brandy Butter
+[recipe_logger] INFO: Recipe written for Cookbook:Bran Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Bonda (South Indian Vegetable Fritter)
+[recipe_logger] INFO: Recipe written for Cookbook:Braised Shortribs
+[recipe_logger] INFO: Recipe written for Cookbook:Browned Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Bolognese Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Broccoli Burgers
+[recipe_logger] INFO: Recipe written for Cookbook:Brioche Stuffing
+[recipe_logger] INFO: Recipe written for Cookbook:Brigadeiro (Brazilian Chocolate Fudge)
+[recipe_logger] INFO: Recipe written for Cookbook:Breakfast Waffles (Gluten-Free)
+[recipe_logger] INFO: Recipe written for Cookbook:Breakfast Casserole
+[recipe_logger] INFO: Recipe written for Cookbook:Boiled Yellow Split Peas
+[recipe_logger] INFO: Recipe written for Cookbook:Boilo (Hot Spiced Citrus Whiskey)
+[recipe_logger] INFO: Recipe written for Cookbook:Blotkake (Norwegian Berries and Cream Cake)
+[recipe_logger] INFO: Recipe written for Cookbook:Boiled Custard
+[recipe_logger] INFO: Recipe written for Cookbook:Indian Butter Chicken I
+[recipe_logger] INFO: Recipe written for Cookbook:Bohrani (Spiced Yogurt Drink)
+[recipe_logger] INFO: Recipe written for Cookbook:Italian Marinated Chicken
+[recipe_logger] INFO: Recipe written for Cookbook:Irish Stew
+[recipe_logger] INFO: Recipe written for Cookbook:Boeuf Bourguignon
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Stock
+[recipe_logger] INFO: Recipe written for Cookbook:Indian Mango, Chilli Powder, and Cumin Condiment (Chhundo)
+[recipe_logger] INFO: Recipe written for Cookbook:Indian Hard Tack (Baati)
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Soup with Rice and Potatoes
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Soup II
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Brown Rice Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Rice Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Cacciatore
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Paprikash
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Biryani
+[recipe_logger] INFO: Recipe written for Cookbook:Chewy Ginger Cookies
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken and Andouille Sausage Gumbo
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Alfredo Pizza
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken and Pasta Alfredo
+[recipe_logger] INFO: Recipe written for Cookbook:Chicken Alfredo
+[recipe_logger] INFO: Recipe written for Cookbook:Chew Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Chess Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Cherry-Berry Jumble Fruit Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Cherbet Meliana (Algerian Cherry Beverage)
+[recipe_logger] INFO: Recipe written for Cookbook:Cherbet Mazhar (Algerian Flower Water Drink)
+[recipe_logger] INFO: Recipe written for Cookbook:Cheesy Mascarpone Cornbread Stuffing
+[recipe_logger] INFO: Recipe written for Cookbook:Cheese-Stuffed Crust Pizza
+[recipe_logger] INFO: Recipe written for Cookbook:Cheese Enchilada
+[recipe_logger] INFO: Recipe written for Cookbook:Cheese-Stuffed Chicken Breasts
+[recipe_logger] INFO: Recipe written for Cookbook:Cheese Puffs (Pao de Queijo)
+[recipe_logger] INFO: Recipe written for Cookbook:Cheese Dumplings
+[recipe_logger] INFO: Recipe written for Cookbook:Charoset (Iraqi)
+[recipe_logger] INFO: Recipe written for Cookbook:Char Siu (Chinese BBQ pork)
+[recipe_logger] INFO: Recipe written for Cookbook:Cheese Crisps
+[recipe_logger] INFO: Recipe written for Cookbook:Char Sui (Asian Barbecued Pork)
+[recipe_logger] INFO: Recipe written for Cookbook:Cheese and Bacon Rolls
+[recipe_logger] INFO: Recipe written for Cookbook:Cheescake Cups
+[recipe_logger] INFO: Recipe written for Cookbook:Champ (Irish Mashed Potato with Scallion)
+[recipe_logger] INFO: Recipe written for Cookbook:Hush Puppies
+[recipe_logger] INFO: Recipe written for Cookbook:Carrot Kugel
+[recipe_logger] INFO: Recipe written for Cookbook:Huevos Rancheros
+[recipe_logger] INFO: Recipe written for Cookbook:Hot Wings
+[recipe_logger] INFO: Recipe written for Cookbook:Hot Milk Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Cassoulet
+[recipe_logger] INFO: Recipe written for Cookbook:Carrot Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Central Texan Pinto Beans
+[recipe_logger] INFO: Recipe written for Cookbook:Cazuela Gallega (Egg, Ham, and Cheese Casserole)
+[recipe_logger] INFO: Recipe written for Cookbook:Carrot Cake I
+[recipe_logger] INFO: Recipe written for Cookbook:Challah
+[recipe_logger] INFO: Recipe written for Cookbook:Blueberry Muffin
+[recipe_logger] INFO: Recipe written for Cookbook:Blue Cheese Dressing
+[recipe_logger] INFO: Recipe written for Cookbook:Blueberry Cream Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Black-Peppered Chicken Spaghetti
+[recipe_logger] INFO: Recipe written for Cookbook:Blackened Sirloin
+[recipe_logger] INFO: Recipe written for Cookbook:Blackberry Mush
+[recipe_logger] INFO: Recipe written for Cookbook:Black Pepper Syrup
+[recipe_logger] INFO: Recipe written for Cookbook:Black Forest Torte
+[recipe_logger] INFO: Recipe written for Cookbook:Black Forest Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Black Bean Soup and Salsa Verde
+[recipe_logger] INFO: Recipe written for Cookbook:Black Bean Chili
+[recipe_logger] INFO: Recipe written for Cookbook:Black Bean Stir-Fry
+[recipe_logger] INFO: Recipe written for Cookbook:Black Bean Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Bizcochito (Cinnamon Anise Cookies) I
+[recipe_logger] INFO: Recipe written for Cookbook:Bison Loaf
+[recipe_logger] INFO: Recipe written for Cookbook:Biscuits I
+[recipe_logger] INFO: Recipe written for Cookbook:Beer-can Chicken
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Yakiniku Pizza
+[recipe_logger] INFO: Recipe written for Cookbook:Bigos (Polish Cabbage Meat Stew)
+[recipe_logger] INFO: Recipe written for Cookbook:Beer Marinated Shrimp
+[recipe_logger] INFO: Recipe written for Cookbook:Beer Batter
+[recipe_logger] INFO: Recipe written for Cookbook:Bengal Potatoes
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Tenderloin Steak
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Stir-Fry
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Stew I
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Pasties
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Stew II
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Burgers with Chipotle Mayo
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Jerky
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Curry
+[recipe_logger] INFO: Recipe written for Cookbook:Beef Croquettes
+[recipe_logger] INFO: Recipe written for Cookbook:Beef and Vegetable Kabobs
+[recipe_logger] INFO: Recipe written for Cookbook:Beach Tropicana
+[recipe_logger] INFO: Recipe written for Cookbook:Beef and Guinness Casserole
+[recipe_logger] INFO: Recipe written for Cookbook:Beef and Barley Stew
+[recipe_logger] INFO: Recipe written for Cookbook:Bean and Green Chili Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Beanburger
+[recipe_logger] INFO: Recipe written for Cookbook:BBQ Pork Fried Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Basic Scones
+[recipe_logger] INFO: Recipe written for Cookbook:Basic Polenta
+[recipe_logger] INFO: Recipe written for Cookbook:Barbecue Sauce I
+[recipe_logger] INFO: Recipe written for Cookbook:Basic Pizza Crust
+[recipe_logger] INFO: Recipe written for Cookbook:Barbecue Ribs
+[recipe_logger] INFO: Recipe written for Cookbook:Basic Bread Dough
+[recipe_logger] INFO: Recipe written for Cookbook:Basic Flapjacks
+[recipe_logger] INFO: Recipe written for Cookbook:Barbecue Sauce (Sweet)
+[recipe_logger] INFO: Recipe written for Cookbook:Barbecue Sauce (Kansas City-style)
+[recipe_logger] INFO: Recipe written for Cookbook:Cantonese Roast Duck
+[recipe_logger] INFO: Recipe written for Cookbook:Barbecue Fried Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Barbecue Chicken Rub
+[recipe_logger] INFO: Recipe written for Cookbook:Cao lau (Vietnamese Pork Noodles with Greens)
+[recipe_logger] INFO: Recipe written for Cookbook:Cannabutter
+[recipe_logger] INFO: Recipe written for Cookbook:Canh Chua (Vietnamese Hot and Sour Soup)
+[recipe_logger] INFO: Recipe written for Cookbook:Candied Almonds (Branda mandlar)
+[recipe_logger] INFO: Recipe written for Cookbook:Cajun Red Beans and Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Campfire Banana Boat
+[recipe_logger] INFO: Recipe written for Cookbook:Cabbage Rolls in Tomato Sauce (Holubtsi)
+[recipe_logger] INFO: Recipe written for Cookbook:Caesar Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Calzone
+[recipe_logger] INFO: Recipe written for Cookbook:Cajun Burger
+[recipe_logger] INFO: Recipe written for Cookbook:Candied Yams
+[recipe_logger] INFO: Recipe written for Cookbook:Cabbage Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Cachapa (Venezuelan Corn Pancakes)
+[recipe_logger] INFO: Recipe written for Cookbook:Cabbage Rolls in Yogurt Sauce (Sarmi)
+[recipe_logger] INFO: Recipe written for Cookbook:Espagnole Sauce (Mrs. W.G. Waters)
+[recipe_logger] INFO: Recipe written for Cookbook:Eggplant Parmesan (Melanzane alla Parmigiana) II
+[recipe_logger] INFO: Recipe written for Cookbook:English Pea Salad
+[recipe_logger] INFO: Recipe written for Cookbook:Empanada
+[recipe_logger] INFO: Recipe written for Cookbook:English Field Bean Pate
+[recipe_logger] INFO: Recipe written for Cookbook:Eierpunsch (German Egg Punch)
+[recipe_logger] INFO: Recipe written for Cookbook:Eton Mess
+[recipe_logger] INFO: Recipe written for Cookbook:Eggplant Parmesan (Melanzane alla Parmigiana) I
+[recipe_logger] INFO: Recipe written for Cookbook:Eggnog
+[recipe_logger] INFO: Recipe written for Cookbook:Eggplant and Chickpea Skillet
+[recipe_logger] INFO: Recipe written for Cookbook:Egg Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Egg, Cheese and Phyllo Casserole (Banitsa)
+[recipe_logger] INFO: Recipe written for Cookbook:Easy Batter Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Hot Fudge
+[recipe_logger] INFO: Recipe written for Cookbook:Easy No-knead Raisin Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Hot Cross Bun
+[recipe_logger] INFO: Recipe written for Cookbook:Honey Lime Pork Loin
+[recipe_logger] INFO: Recipe written for Cookbook:Honey Gingerbread Cookies
+[recipe_logger] INFO: Recipe written for Cookbook:Honey BBQ Hot Wings
+[recipe_logger] INFO: Recipe written for Cookbook:Honey Apple Glazed Pork
+[recipe_logger] INFO: Recipe written for Cookbook:Hominy Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Homemade Tempeh
+[recipe_logger] INFO: Recipe written for Cookbook:Eclairs
+[recipe_logger] INFO: Recipe written for Cookbook:Homemade Pie Crust
+[recipe_logger] INFO: Recipe written for Cookbook:Homemade Seitan
+[recipe_logger] INFO: Recipe written for Cookbook:Easy Nachos
+[recipe_logger] INFO: Recipe written for Cookbook:Eggplant and Tahini (Moutabbal)
+[recipe_logger] INFO: Recipe written for Cookbook:Easy Chicken Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Easy Christmas Fruit Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Homemade Cider Vinegar
+[recipe_logger] INFO: Recipe written for Cookbook:Homemade Biscuit Mix
+[recipe_logger] INFO: Recipe written for Cookbook:Homemade Corn Tortillas
+[recipe_logger] INFO: Recipe written for Cookbook:Homemade Applesauce
+[recipe_logger] INFO: Recipe written for Cookbook:Holzknechtnocken (Austrian Boiled Dumplings)
+[recipe_logger] INFO: Recipe written for Cookbook:Holland Tea Cakes
+[recipe_logger] INFO: Recipe written for Cookbook:Holiday Stuffing
+[recipe_logger] INFO: Recipe written for Cookbook:Holiday Cake (Spiced Fruitcake Loaf)
+[recipe_logger] INFO: Recipe written for Cookbook:Herb Bubble Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Hobo Burgers
+[recipe_logger] INFO: Recipe written for Cookbook:Hlib Tmer (Algerian Date Milk)
+[recipe_logger] INFO: Recipe written for Cookbook:Herbal Iced Tea
+[recipe_logger] INFO: Recipe written for Cookbook:Hawthorn Tea
+[recipe_logger] INFO: Recipe written for Cookbook:Hazelnut Torte
+[recipe_logger] INFO: Recipe written for Cookbook:Habet Hlawa (Algerian Anise Beverage)
+[recipe_logger] INFO: Recipe written for Cookbook:Hamburger
+[recipe_logger] INFO: Recipe written for Cookbook:Hasude (Albanian Cornstarch Pudding)
+[recipe_logger] INFO: Recipe written for Cookbook:Hamburger Deluxe
+[recipe_logger] INFO: Recipe written for Cookbook:Halibut Cheek Stir-Fry
+[recipe_logger] INFO: Recipe written for Cookbook:Duck a l'Orange
+[recipe_logger] INFO: Recipe written for Cookbook:Durian Pancake
+[recipe_logger] INFO: Recipe written for Cookbook:Haggis
+[recipe_logger] INFO: Recipe written for Cookbook:Hachee (Dutch Beef Stew)
+[recipe_logger] INFO: Recipe written for Cookbook:Duck Stock
+[recipe_logger] INFO: Recipe written for Cookbook:Double Hamburgers
+[recipe_logger] INFO: Recipe written for Cookbook:Doubles (Trinidadian Bread with Curried Chickpeas)
+[recipe_logger] INFO: Recipe written for Cookbook:Double Pea Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Duck Fried Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Dirty Rice
+[recipe_logger] INFO: Recipe written for Cookbook:Dinuguan (Pork Blood Stew)
+[recipe_logger] INFO: Recipe written for Cookbook:Dirt Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Daigakuimo (Japanese Candied Sweet Potato)
+[recipe_logger] INFO: Recipe written for Cookbook:Deep Fried Mars Bar
+[recipe_logger] INFO: Recipe written for Cookbook:Deep Fried Chickpea Dough Curry Snacks (Pakoda)
+[recipe_logger] INFO: Recipe written for Cookbook:Deep Fried Chiles Filled with Chickpea Flour (Mirchi Bhajji)
+[recipe_logger] INFO: Recipe written for Cookbook:Deep Fried Chickpea Dough Balls (Chyueeam)
+[recipe_logger] INFO: Recipe written for Cookbook:Aubergine and Onion Vegetable Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Date Nut Bars
+[recipe_logger] INFO: Recipe written for Cookbook:Palatschinken (Czech/Austrian Crepes)
+[recipe_logger] INFO: Recipe written for Cookbook:Deli Roll Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Austrian Napkin Dumpling (Serviettenknodel)
+[recipe_logger] INFO: Recipe written for Cookbook:Asparagus with Sesame Seeds and Soy Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Date Squares
+[recipe_logger] INFO: Recipe written for Cookbook:Atomic Fudge Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Atkins-Friendly Chocolate Mousse
+[recipe_logger] INFO: Recipe written for Cookbook:Asian Grilled Duck Breasts
+[recipe_logger] INFO: Recipe written for Cookbook:Arroz Negro (Valencian Squid Rice)
+[recipe_logger] INFO: Recipe written for Cookbook:Apple Streusel Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Apple Pie I
+[recipe_logger] INFO: Recipe written for Cookbook:Asian Grilled Salmon
+[recipe_logger] INFO: Recipe written for Cookbook:Apple Pie II
+[recipe_logger] INFO: Recipe written for Cookbook:Apple Strudel
+[recipe_logger] INFO: Recipe written for Cookbook:Apple and Almond Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Apple Raisin Oat Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Apple Crumb Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Apple Crisp I
+[recipe_logger] INFO: Recipe written for Cookbook:Anise Bread (Penia)
+[recipe_logger] INFO: Recipe written for Cookbook:Alsatian Chicken Fricassee
+[recipe_logger] INFO: Recipe written for Cookbook:Apple Bundt Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Albanian Vegetable Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Almond Toffee Blondies
+[recipe_logger] INFO: Recipe written for Cookbook:Almond-Cowitch Matcha Smoothie
+[recipe_logger] INFO: Recipe written for Cookbook:Albanian Stewed Fig Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Aji de Gallina (Peruvian Chili Chicken)
+[recipe_logger] INFO: Recipe written for Cookbook:Agnolotti Pasta Soup (Agnolotti in Brodo)
+[recipe_logger] INFO: Recipe written for Cookbook:Algerian Lemonade
+[recipe_logger] INFO: Recipe written for Cookbook:Agedashi Tofu
+[recipe_logger] INFO: Recipe written for Cookbook:Agar Jelly
+[recipe_logger] INFO: Recipe written for Cookbook:Anzac Biscuits I
+[recipe_logger] INFO: Recipe written for Cookbook:Adobo Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Adobo Chicken (Philippine)
+[recipe_logger] INFO: Recipe written for Cookbook:Ale, Mustard and Winter Vegetable Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Almond Milk II
+[recipe_logger] INFO: Recipe written for Cookbook:Alfredo Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Adult Macaroni and Cheese
+[recipe_logger] INFO: Recipe written for Cookbook:Afghan Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Banana Pudding
+[recipe_logger] INFO: Recipe written for Cookbook:Banana Nut Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Bangladesh Curry
+[recipe_logger] INFO: Recipe written for Cookbook:AEbleskiver (Danish Spherical Pancakes)
+[recipe_logger] INFO: Recipe written for Cookbook:Banana Curry
+[recipe_logger] INFO: Recipe written for Cookbook:Baozi (Steamed Yeasted Dumplings)
+[recipe_logger] INFO: Recipe written for Cookbook:Banana Chip Muffins
+[recipe_logger] INFO: Recipe written for Cookbook:Banana Cream Pie II
+[recipe_logger] INFO: Recipe written for Cookbook:Baklava
+[recipe_logger] INFO: Recipe written for Cookbook:Banana Bread II
+[recipe_logger] INFO: Recipe written for Cookbook:Banana Bread I
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Brunch Omelet
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Leeks
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Oatmeal
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Lemon Thyme Halibut
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Custard
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Pork Chops
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Lamb and Yogurt
+[recipe_logger] INFO: Recipe written for Cookbook:Babi Panggang Sauce
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Beans
+[recipe_logger] INFO: Recipe written for Cookbook:Baked Ziti
+[recipe_logger] INFO: Recipe written for Cookbook:Gyuveche (Bulgarian Casserole) II
+[recipe_logger] INFO: Recipe written for Cookbook:Backyard Barbecue Ribs
+[recipe_logger] INFO: Recipe written for Cookbook:Gyuvetch (Bulgarian Casserole) I
+[recipe_logger] INFO: Recipe written for Cookbook:Bacon-Wrapped Scallops
+[recipe_logger] INFO: Recipe written for Cookbook:Bacon and Cheese Puffs
+[recipe_logger] INFO: Recipe written for Cookbook:Gyudon (Japanese Beef and Rice Bowl)
+[recipe_logger] INFO: Recipe written for Cookbook:Ground Tofu
+[recipe_logger] INFO: Recipe written for Cookbook:Grilled Filet Mignon with a Cognac Reduction
+[recipe_logger] INFO: Recipe written for Cookbook:Greek Moussaka
+[recipe_logger] INFO: Recipe written for Cookbook:Gravlax
+[recipe_logger] INFO: Recipe written for Cookbook:Gulab Jamun (Fried Milk Balls in Syrup)
+[recipe_logger] INFO: Recipe written for Cookbook:Green Leaf Juice
+[recipe_logger] INFO: Recipe written for Cookbook:Grandmother Grout's Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Granola Bars
+[recipe_logger] INFO: Recipe written for Cookbook:Goulash Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Grandma's Pie Crust
+[recipe_logger] INFO: Recipe written for Cookbook:Goulash
+[recipe_logger] INFO: Recipe written for Cookbook:Glorified Mac and Cheese
+[recipe_logger] INFO: Recipe written for Cookbook:Glazed Sweet Potatoes
+[recipe_logger] INFO: Recipe written for Cookbook:Gingerbread
+[recipe_logger] INFO: Recipe written for Cookbook:Ginger Beer
+[recipe_logger] INFO: Recipe written for Cookbook:Ginger Banana Cake with Chocolate
+[recipe_logger] INFO: Recipe written for Cookbook:Gimbap
+[recipe_logger] INFO: Recipe written for Cookbook:Garlic Mayonnaise made with Bread and Fish Stock (Rouille)
+[recipe_logger] INFO: Recipe written for Cookbook:Gajjar Halwa (Carrot Pudding)
+[recipe_logger] INFO: Recipe written for Cookbook:Ghevar (Rajasthani Honeycomb Fritter)
+[recipe_logger] INFO: Recipe written for Cookbook:Garlic Bread
+[recipe_logger] INFO: Recipe written for Cookbook:Gazpacho
+[recipe_logger] INFO: Recipe written for Cookbook:Galician Garbanzo Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Garam Masala
+[recipe_logger] INFO: Recipe written for Cookbook:Fruit Crumble
+[recipe_logger] INFO: Recipe written for Cookbook:Galaktoboureko (Greek Semolina Custard Pastry)
+[recipe_logger] INFO: Recipe written for Cookbook:Frito Pie Chili
+[recipe_logger] INFO: Recipe written for Cookbook:Fruity Cheese Dogs
+[recipe_logger] INFO: Recipe written for Cookbook:Fruit Cake
+[recipe_logger] INFO: Recipe written for Cookbook:Fondue Neuchateloise
+[recipe_logger] INFO: Recipe written for Cookbook:Frikadeller (Danish Meatballs)
+[recipe_logger] INFO: Recipe written for Cookbook:Froga (Maltese Omelet)
+[recipe_logger] INFO: Recipe written for Cookbook:Frito Pie (Baked)
+[recipe_logger] INFO: Recipe written for Cookbook:Frittaten Soup
+[recipe_logger] INFO: Recipe written for Cookbook:Fried Okra
+[recipe_logger] INFO: Recipe written for Cookbook:Fried Green Tomatoes
+[recipe_logger] INFO: Recipe written for Cookbook:Fried Cheese Balls with Sausage
+[recipe_logger] INFO: Recipe written for Cookbook:Focaccia II
+[recipe_logger] INFO: Recipe written for Cookbook:Focaccia I
+[recipe_logger] INFO: Recipe written for Cookbook:Fleischkrapfen (Austrian Meat Pasties)
+[recipe_logger] INFO: Recipe written for Cookbook:Flapjacks (Traditional Scottish Recipe)
+[recipe_logger] INFO: Recipe written for Cookbook:Flammekueche (Bacon and Onion Flatbread)
+[recipe_logger] INFO: Recipe written for Cookbook:Flapjacks
+[recipe_logger] INFO: Recipe written for Cookbook:Flan Patissier
+[recipe_logger] INFO: Recipe written for Cookbook:Fish Biryani
+[recipe_logger] INFO: Recipe written for Cookbook:Fish and Chips
+[recipe_logger] INFO: Recipe written for Cookbook:Faina (Chickpea Flatbread)
+[recipe_logger] INFO: Recipe written for Cookbook:Fish Pie
+[recipe_logger] INFO: Recipe written for Cookbook:Feuerzangenbowle (German Wine Punch)
+[recipe_logger] INFO: Recipe written for Cookbook:Flaky Pie Crust
+[recipe_logger] INFO: Recipe written for Cookbook:Fiddlehead-Portobello Linguine
+[recipe_logger] INFO: Recipe written for Cookbook:Fancy Crepes
+[recipe_logger] INFO: Recipe written for Cookbook:Figolli (Maltese Easter Pastries)
+[recipe_logger] INFO: Recipe written for Cookbook:Fairy Cakes
