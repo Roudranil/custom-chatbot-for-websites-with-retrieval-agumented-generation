@@ -1,0 +1,11 @@
+transformers
+accelerate
+bitsandbytes
+peft
+langchain
+advertools
+tiktoken
+sentencepiece
+Xformers
+sentence-transformers
+chromadb
