@@ -1,0 +1,8 @@
+# Ignore all files in the folder
+*
+
+# Except for files with the following extensions
+!*.tex
+!*.pdf
+!*.png
+!.gitignore
