@@ -1,10 +1,17 @@
-# Applied ML project
+# Custom Chatbot for any website with Retrieval Augmented Generation
 
-## Plan
+This is the course project for the Applied Machine Learning Course of the M.Sc. Data Science program at the Chennai Mathematical Institute.
 
-- Scrape some websites and get the text content out of them
-- Build a RAG pipeline for some open source LLM
+Group members:
+- Roudranil Das
+- Soham Sengupta
+- Subhashree Saha
+- Ujan Dasgupta
 
-Links:
+## Summary
 
-[recipes with metric units](https://en.wikibooks.org/wiki/Category:Recipes_with_metric_units)
+We scrape websites containing cooking recipes and extract the text content and store them. Then we build a RAG pipeline to get responses from LLM's based on queries, with context from these stored texts.
+
+Detailed code for the rag pipeline is in the [src](src) directory.
+
+Here is the link to the [presentation](presentation/presentation.pdf).
